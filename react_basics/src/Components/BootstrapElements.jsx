@@ -5,7 +5,7 @@ export function Buttons(){
       return (
         <div>
           <Hello></Hello>
-         <table class="table">
+         <table className="table">
             <thead>
                 <tr>
                 <th scope="col">#</th>
